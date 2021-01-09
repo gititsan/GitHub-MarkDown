@@ -69,7 +69,8 @@ Italic ==> `* Text * `
 
 Crossed word ==> ~~No worries~~ ==> `~~No worries~~ `
 
- For more details on Markdown Visit this link : [Markdown Cheat Sheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ For more details on Markdown Visit this link : 
+ [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 
